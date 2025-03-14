@@ -56,4 +56,4 @@ By integrating **GitHub Webhooks & Jenkins Multi-Branch Pipeline**, this setup a
 ## 📬 Contact
 For any queries or improvements, feel free to connect on **[LinkedIn](https://www.linkedin.com/in/imtiyajshaikh/)** or open an issue in this repo. Happy DevOps! 🚀
 
-For more details, check out my **[LinkedIn post](https://www.linkedin.com/posts/imtiyajshaikh_sunday-devops-microservices-activity-7304730525263376384-YWpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGZpaEBlaey-QGm5DvwZ3nffNzmdDkvn70)
+For more details, check out my **[LinkedIn post](https://www.linkedin.com/posts/imtiyajshaikh_sunday-devops-microservices-activity-7304730525263376384-YWpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGZpaEBlaey-QGm5DvwZ3nffNzmdDkvn70)**
