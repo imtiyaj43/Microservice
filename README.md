@@ -58,6 +58,14 @@ For any queries or improvements, feel free to connect on **[LinkedIn](https://ww
 
 For more details, check out my **[LinkedIn post](https://www.linkedin.com/posts/imtiyajshaikh_sunday-devops-microservices-activity-7304730525263376384-YWpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGZpaEBlaey-QGm5DvwZ3nffNzmdDkvn70)**
 
-## Output
-**Website**
+## 🚀 Output
+### 🖥️ Website
 <div align="center"> <img src="https://github.com/imtiyaj43/Microservice/blob/Infra-Steps/output/Website.png"> </div>
+
+### 🔄 CI/CD Pipeline Execution  
+<div align="center"> <img src="https://github.com/imtiyaj43/Microservice/blob/Infra-Steps/output/CICD%20Pipeline.png" width="600"> </div>
+
+### 📦 Pods Running in Kubernetes  
+<div align="center">
+  <img src="output/Pods.png" width="600">
+</div>
