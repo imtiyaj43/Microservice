@@ -65,7 +65,8 @@ For more details, check out my **[LinkedIn post](https://www.linkedin.com/posts/
 ### 🔄 CI/CD Pipeline Execution  
 <div align="center"> <img src="https://github.com/imtiyaj43/Microservice/blob/Infra-Steps/output/CICD%20Pipeline.png"> </div>
 
+### 🛒 Cart Preview 
+<div align="center"> <img src="https://github.com/imtiyaj43/Microservice/blob/Infra-Steps/output/Cart.png"> </div>
+
 ### 📦 Pods Running in Kubernetes  
-<div align="center">
-  <img src="output/Pods.png" width="600">
-</div>
+<div align="center"> <img src="https://github.com/imtiyaj43/Microservice/blob/Infra-Steps/output/Pods.png"> </div>
