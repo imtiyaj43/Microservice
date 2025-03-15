@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project implements a **fully automated CI/CD pipeline** for an **eCommerce application** with **11 microservices** running on **AWS EKS**. The pipeline is powered by **Jenkins, Docker, Kubernetes, and GitHub**, ensuring seamless, scalable, and efficient deployments with zero manual intervention.
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack 
 - **Jenkins**: Multi-Branch Pipeline for CI/CD automation
 - **Docker**: Containerization of microservices
 - **Kubernetes (EKS)**: Orchestrating microservices
